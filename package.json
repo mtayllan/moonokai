@@ -1,6 +1,7 @@
 {
     "name": "moonokai",
     "displayName": "moonokai",
+    "publisher": "mtayllan",
     "description": "A dark theme with monokai colors for syntax",
     "version": "0.0.1",
     "engines": {
