@@ -2,7 +2,7 @@
     "name": "moonokai",
     "displayName": "moonokai",
     "publisher": "mtayllan",
-    "description": "A dark theme with monokai colors for syntax",
+    "description": "Dark Monokai Theme for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
